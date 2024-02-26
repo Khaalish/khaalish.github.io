@@ -1,0 +1,32 @@
+body{
+	background-color:#1e1e21;
+	font-family:sans-serif;
+}
+
+.backButton{
+  transition: transform 0.3s ease-in-out;
+}
+
+.backButton:hover{
+	transform: scale(1.1,1.1);
+}
+
+.infoUtama{
+	padding-top: 75px;
+	padding-left: 25px;
+}
+
+.muka{
+	float: left;
+	padding-right: 25px;
+}
+
+.info{
+	background-color:#535353;
+	border-radius: 5px;
+	padding-left: 1em;
+	padding-right: 1em;
+	float: left;
+	font-size: 20px;
+	color: white;
+}
